@@ -164,7 +164,7 @@ html {
   height: 50px;
   width: 250px;
   font-size: 1rem;
-  text-transform: uppercase;
+
 }
 
 .main-content .section-dark.resume .fa-download {
@@ -262,7 +262,7 @@ html {
   color: white;
   height: 50px;
   font-size: 1.1rem;
-  text-transform: uppercase;
+
   font-family: 'Raleway', sans-serif;
 }
 
@@ -292,7 +292,6 @@ html {
   font-family: 'Raleway', sans-serif;
   font-weight: 900;
   color: #996E6D;
-  text-transform: uppercase;
   font-size: 1.5rem;
   letter-spacing: 0px;
   padding-bottom: 60px;
